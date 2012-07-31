@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="1">
+  <advance width="1223"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="1224" y="1600" type="curve"/>
+      <point x="1081" y="1600" type="line"/>
+      <point x="961" y="1199"/>
+      <point x="685" y="266"/>
+      <point x="650" y="164" type="curve"/>
+      <point x="633" y="131"/>
+      <point x="618" y="106"/>
+      <point x="602" y="76" type="curve"/>
+      <point x="560" y="198"/>
+      <point x="412" y="603"/>
+      <point x="327" y="839" type="curve"/>
+      <point x="62" y="743" type="line"/>
+      <point x="88" y="670" type="line"/>
+      <point x="224" y="720" type="line"/>
+      <point x="552" y="-169" type="line"/>
+      <point x="640" y="-169" type="line"/>
+      <point x="808" y="376"/>
+      <point x="976" y="923"/>
+      <point x="1143" y="1471" type="curve"/>
+      <point x="1161" y="1471"/>
+      <point x="1184" y="1466"/>
+      <point x="1201" y="1466" type="curve"/>
+      <point x="1208" y="1505"/>
+      <point x="1217" y="1560"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

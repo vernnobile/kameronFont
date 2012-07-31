@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+  <advance width="1041"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="467" y="215" type="curve"/>
+      <point x="378" y="216"/>
+      <point x="312" y="226"/>
+      <point x="251" y="239" type="curve"/>
+      <point x="80" y="239" type="line"/>
+      <point x="80" y="103" type="line"/>
+      <point x="254" y="103" type="line"/>
+      <point x="314" y="116"/>
+      <point x="373" y="125"/>
+      <point x="467" y="126" type="curve"/>
+      <point x="467" y="24"/>
+      <point x="457" y="-36"/>
+      <point x="442" y="-107" type="curve"/>
+      <point x="442" y="-299" type="line"/>
+      <point x="597" y="-299" type="line"/>
+      <point x="597" y="-107" type="line"/>
+      <point x="582" y="-36"/>
+      <point x="573" y="24"/>
+      <point x="573" y="126" type="curve"/>
+      <point x="667" y="125"/>
+      <point x="726" y="115"/>
+      <point x="785" y="103" type="curve"/>
+      <point x="960" y="103" type="line"/>
+      <point x="960" y="239" type="line"/>
+      <point x="788" y="239" type="line"/>
+      <point x="727" y="227"/>
+      <point x="664" y="216"/>
+      <point x="573" y="215" type="curve"/>
+      <point x="577" y="327"/>
+      <point x="582" y="408"/>
+      <point x="605" y="492" type="curve"/>
+      <point x="582" y="591"/>
+      <point x="577" y="685"/>
+      <point x="573" y="810" type="curve"/>
+      <point x="666" y="809"/>
+      <point x="727" y="798"/>
+      <point x="788" y="786" type="curve"/>
+      <point x="960" y="786" type="line"/>
+      <point x="960" y="922" type="line"/>
+      <point x="785" y="922" type="line"/>
+      <point x="727" y="910"/>
+      <point x="665" y="900"/>
+      <point x="573" y="899" type="curve"/>
+      <point x="573" y="989"/>
+      <point x="582" y="1036"/>
+      <point x="597" y="1096" type="curve"/>
+      <point x="597" y="1290" type="line"/>
+      <point x="442" y="1290" type="line"/>
+      <point x="442" y="1096" type="line"/>
+      <point x="457" y="1036"/>
+      <point x="467" y="989"/>
+      <point x="467" y="899" type="curve"/>
+      <point x="375" y="900"/>
+      <point x="313" y="909"/>
+      <point x="254" y="922" type="curve"/>
+      <point x="80" y="922" type="line"/>
+      <point x="80" y="786" type="line"/>
+      <point x="251" y="786" type="line"/>
+      <point x="313" y="799"/>
+      <point x="376" y="809"/>
+      <point x="467" y="810" type="curve"/>
+      <point x="463" y="685"/>
+      <point x="457" y="591"/>
+      <point x="434" y="492" type="curve"/>
+      <point x="457" y="408"/>
+      <point x="463" y="327"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

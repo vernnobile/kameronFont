@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2215" format="1">
+  <advance width="640"/>
+  <unicode hex="2215"/>
+  <outline>
+    <contour>
+      <point x="-210" y="0" type="line"/>
+      <point x="-118" y="0" type="line"/>
+      <point x="852" y="1356" type="line"/>
+      <point x="761" y="1356" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
